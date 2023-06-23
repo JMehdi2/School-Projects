@@ -4,4 +4,4 @@
 
 The analysis is conducted using Stata.
 
-Note: I made minor modifications to the text before sharing.
+Note: I made minor modifications to the report before sharing.
