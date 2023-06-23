@@ -1,6 +1,6 @@
 # Causal Data Analysis Project
 
-**The assigned task was to select a causal variable from a real life problem, and to measure its causal effect.**
+**The assigned task was to measure the effect of a treatment observed in real life.**
 
 Data is treated on Stata.
 
