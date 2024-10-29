@@ -1,6 +1,6 @@
 # Advanced Macroeconomics Home Assignment
 
-**The task was to describe business cycles in Cyprus, and to compare with business cycles in the USA in light of D. Williamson' Macroeconomics textbook**
+**The task is to describe business cycles in Cyprus, and to compare with business cycles in the USA in light of D. Williamson' Macroeconomics textbook**
 
 Data is processed on Microsoft Excel.
 
