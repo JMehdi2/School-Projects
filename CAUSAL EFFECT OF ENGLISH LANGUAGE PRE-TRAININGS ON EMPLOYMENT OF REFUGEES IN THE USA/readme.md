@@ -1,8 +1,12 @@
-# Causal Data Analysis Project
+# Measuring the Causal Effect of English Language Pre-Training on Employment of Refugees in the USA
 
-**The object of this project is to measure the effect of a treatment observed in real life.**
-**After exploring various sources of observational data, I worked on proposing an estimate for the effect of English pretraining programs on the integration of refugees in the US society.**
+### Purpose:
+This work aims to measure the effect of English pre-training programs on the employability of refugees in the USA using causal data analysis methods. The findings show that refugees who attend these training programs have a 6.7 percentage-point higher probability of employment compared to those who do not.
 
-The analysis is conducted using Stata.
+### Methods Used:
+- Simple regression
+- Propensity score matching
 
-Note: I made minor modifications to the report before sharing.
+
+
+Note: Minor modifications were made to the report before sharing.
