@@ -9,4 +9,6 @@ This work aims to measure the effect of English pre-training programs on the emp
 
 
 
-Note: Minor modifications were made to the report before sharing.
+Note: 
+- Minor modifications were made to the report before sharing.
+- This mini-project was completed during the fall of 2022 as part of the Economic Analysis master's program at **Corvinus University of Budapest**.
